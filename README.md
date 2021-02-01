@@ -6,7 +6,7 @@ Bulunduğun ilçeyi etiketleyerek tweetle. Örneğin: @BotAirIST pendik
 https://twitter.com/BotAirIST
 
 
-#English
+\n
 Smart Twitter bot that automatically tweeters the air quality index
 
 Tweet by tagging your county. For example: @BotAirIST pendik
