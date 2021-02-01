@@ -207,6 +207,3 @@ def misspelling(stations):
                     break
                 else:
                     continue
-
-a = misspelling(["selimiye"])
-print(a)
