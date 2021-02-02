@@ -6,10 +6,10 @@
 
 AirIST'i çalıştırabilmek için gereken frameworkler.
 
-> tweepy >= 3.9.0
-> pandas >= 1.2.0
-> requests >= 2.24.0
-> bs4 == 0.0.1
+tweepy >= 3.9.0
+pandas >= 1.2.0
+requests >= 2.24.0
+bs4 == 0.0.1
 
 ### Alıntı
 AirIST'in projenizde yararlı olduğunu düşünüyorsanız, lütfen benden alıntı yapmayı düşünün.
@@ -28,10 +28,10 @@ AirIST'in projenizde yararlı olduğunu düşünüyorsanız, lütfen benden alı
 
 Frameworks required to run AirIST.
 
-> tweepy >= 3.9.0
-> pandas >= 1.2.0
-> requests >= 2.24.0
-> bs4 == 0.0.1
+tweepy >= 3.9.0
+pandas >= 1.2.0
+requests >= 2.24.0
+bs4 == 0.0.1
 
 ### Contributing
 
