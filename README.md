@@ -1,6 +1,6 @@
 # AirIST
 
-[AirIST](https://twitter.com/BotAirIST) İstanbul genelinde hava kalitesi endeksini otomatik olarak tweetleyen Twitter botu.
+[AirIST](https://twitter.com/BotAirIST) İstanbul genelinde hava kalitesi indeksini otomatik olarak tweetleyen Twitter botu.
 
 ### Gereksinimler
 
